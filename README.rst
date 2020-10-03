@@ -1,4 +1,4 @@
-cgen: An Abstract Syntax Tree for C, in Python
+cgen: An Abstract Syntax Tree for C,C++ in Python
 ----------------------------------------------
 
 .. image:: https://gitlab.tiker.net/inducer/cgen/badges/master/pipeline.svg
